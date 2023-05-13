@@ -7,8 +7,6 @@
 - [Technology Used](#technologyUsed)
 - [Build Status](#buildStatus)
 - [Features](#features)
-- [Installation](#installation)
-- [Execution](#execution)
 
 ## Introduction <a name="introduction"></a>
 The aim of this project is to create a machine learning model which I can use to predict one's survivability on the titanic depending on certain inputs. The model will be trained on real passenger data from the 1912 titanic. The project will analyse the data, clean the data, create a logistical regression model, predict and evaluate.
