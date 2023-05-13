@@ -14,7 +14,7 @@
 The aim of this project is to create a machine learning model which I can use to predict one's survivability on the titanic depending on certain inputs. The model will be trained on real passenger data from the 1912 titanic. The project will analyse the data, clean the data, create a logistical regression model, predict and evaluate.
 
 ## Motivation <a name="motivation"></a>
-This is a challenge on Kaggle which is a website for data science. My personal motivation was to see how I can utilize my knowledge in regression modelling and statistics with computer programming. Furthermore, I wanted to gain more exposure in large data manipulation, machine learning, and data visualization.
+This is a challenge on Kaggle which is a website for data science. I wanted to see how I could utilize my knowledge in regression modelling and statistics with computer programming. Additionally, to gain more exposure in large data manipulation, machine learning, and data visualization.
 
 ## Technology Used <a name="technologyUsed"></a>
 <table>
