@@ -1,4 +1,4 @@
-# Machine Learning - Titatnic Survival
+# Machine Learning - Titanic Survival
 ![my screenshot](titanic_image.jpg)
 
 **Table of Contents**
