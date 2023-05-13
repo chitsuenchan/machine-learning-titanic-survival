@@ -29,7 +29,7 @@ This is a challenge on Kaggle which is a website for data science. My personal m
     </tr>
     <tr>
       <td>Datasets</td>
-      <td>Titanic passenger data from 1912</td>
+      <td>passengers.csv (Titanic passenger data from 1912)</td>
     </tr>
   </tbody>
 </table>
