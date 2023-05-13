@@ -1,5 +1,5 @@
 # Machine Learning - Titatnic Survival
-![my screenshot](Resources/readme-qa-image.jpg)
+![my screenshot](.titanic_image.jpg)
 
 **Table of Contents**
 - [Introduction](#introduction)
